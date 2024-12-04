@@ -1,0 +1,29 @@
+body {
+  background-color: antiquewhite;
+}
+
+.container {
+  justify-content: center;
+}
+
+.header {
+  font-size: 26px;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+  text-align: center;
+  line-height: 35px;
+}
+
+.brandText {
+  text-align: center;
+  font-size: 82px;
+  padding: 20px 0;
+  background: linear-gradient(green, red);
+  color: antiquewhite;
+  font-family: "Sixtyfour Convergence", sans-serif;
+  line-height: 100px;
+  border-radius: 50px;
+}
